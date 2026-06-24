@@ -184,8 +184,8 @@ Repositori ini adalah **ruang kerja akademik**. Setiap fitur yang masih eksperim
 ## 📞 Kontak
 
 - **Penulis:** Fajar Kurnia — [`@fajarkurnia0388`](https://github.com/fajarkurnia0388)
-- **Email kampus:** `[Isi email UBSI]`
-- **Dosen Pembimbing:** `[Isi nama & kontak]`
+- **Email kampus:** `[-]`
+- **Dosen Pembimbing:** `[-]`
 
 ---
 
